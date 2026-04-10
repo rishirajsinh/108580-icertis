@@ -10,7 +10,6 @@ body {
     background: #f5f5f5;
 }
 
-/* Navigation */
 nav {
     display: flex;
     justify-content: space-between;
@@ -169,7 +168,6 @@ nav {
     box-shadow: 0 10px 25px rgba(0,217,201,0.4);
 }
 
-/* Resource Cards */
 .resource-cards {
     position: absolute;
     right: 5%;
@@ -225,7 +223,6 @@ nav {
     flex-shrink: 0;
 }
 
-/* Contract Intelligence Section */
 .contract-intelligence {
     text-align: center;
     padding: 5rem 2rem;
@@ -284,7 +281,6 @@ nav {
     box-shadow: 0 10px 25px rgba(0,217,201,0.4);
 }
 
-/* Contract Analytics Section */
 .contract-analytics {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -363,7 +359,6 @@ nav {
     box-shadow: 0 20px 60px rgba(0,0,0,0.2);
 }
 
-/* Contract Operations Section */
 .contract-operations {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -417,7 +412,6 @@ nav {
     margin-bottom: 2rem;
 }
 
-/* Contract Performance Section */
 .contract-performance {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -471,7 +465,6 @@ nav {
     box-shadow: 0 20px 60px rgba(0,0,0,0.2);
 }
 
-/* Platform Overview Section - NEW */
 .platform-overview {
     background: white;
     padding: 5rem 5%;
@@ -524,7 +517,6 @@ nav {
     box-shadow: 0 10px 25px rgba(0,217,201,0.4);
 }
 
-/* Industry Solutions Banner */
 .industry-solutions-banner {
     background: white;
     border: 2px solid #e0e0e0;
@@ -564,7 +556,6 @@ nav {
     object-fit: contain;
 }
 
-/* Platform Features Grid */
 .platform-features {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -617,7 +608,6 @@ nav {
     line-height: 1.5;
 }
 
-/* Vera AI Foundation */
 .vera-foundation {
     background: white;
     border: 2px solid #e0e0e0;
@@ -658,7 +648,6 @@ nav {
     color: #666;
 }
 
-/* Platform Capabilities */
 .platform-capabilities {
     background: white;
     border: 2px solid #e0e0e0;
@@ -675,7 +664,6 @@ nav {
     font-weight: 500;
 }
 
-/* Bottom Features */
 .bottom-features {
     display: grid;
     grid-template-columns: 200px 1fr 200px;
@@ -734,7 +722,6 @@ nav {
     object-fit: contain;
 }
 
-/* Floating Icons */
 .floating-icon {
     position: fixed;
     width: 50px;
@@ -1043,7 +1030,6 @@ nav {
 }
 
 
-/* Industry Solutions Section */
 .industry-solutions-section {
     background: #f8f8f8;
     padding: 5rem 5%;
@@ -1134,7 +1120,6 @@ nav {
     box-shadow: 0 10px 25px rgba(0,217,201,0.4);
 }
 
-/* Analyst Reports Section */
 .analyst-reports-section {
     background: white;
     padding: 5rem 5%;
